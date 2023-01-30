@@ -1,3 +1,3 @@
 # apps
-mis apps
+My apps
 Force the key entering of the windows key, youmcan found on internet.
